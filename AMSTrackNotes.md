@@ -1,5 +1,5 @@
 # Asset Management Track
-> *04/16/2014*
+*04/16/2014*
 
 ## Asset Infrastructure Mobile Mapping (AIMM): and imagery-based approach to mobile mapping and asset management
 > *Tobin Guthrie, Project Manager/GIS Lead, David Evans and Associates, Inc.* <br/>
