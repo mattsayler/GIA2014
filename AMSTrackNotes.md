@@ -1,8 +1,8 @@
 # Asset Management
 
 ## Asset Infrastructure Mobile Mapping (AIMM): and imagery-based approach to mobile mapping and asset management
-*Tobin Guthrie, Project Manager/GIS Lead, David Evans and Associates, Inc.*
-*tlg@deainc.com*
+   *Tobin Guthrie, Project Manager/GIS Lead, David Evans and Associates, Inc.*
+   *tlg@deainc.com*
 
 ### Comparison to StreetView
 * Higher definition
@@ -26,8 +26,8 @@
 
 
 ## GPS Tracking of Clark County Public Works Vehicles
-*Matt Deitemeyer, GIS Analyst, Clark County, WA*
-*matt.deitemeyer@clark.wa.gov*
+   *Matt Deitemeyer, GIS Analyst, Clark County, WA*
+   *matt.deitemeyer@clark.wa.gov*
 
 ### Vehicles w/AVL
 * Snowplows
@@ -51,10 +51,10 @@
 
 
 ## Asset Management: Planning, Strategy and Implementation
-*Marcus Glass, 3Di-Eugene, OR*
-*mglass@3dimapping.com*
-*Ben Hoffman of Ben Hoffman Consulting, Inc*
-*ben@benhoffmanconsulting.com*
+   *Marcus Glass, 3Di-Eugene, OR*
+   *mglass@3dimapping.com*
+   *Ben Hoffman of Ben Hoffman Consulting, Inc*
+   *ben@benhoffmanconsulting.com*
 
 ### What is Asset Management
 * Software/Hardware
