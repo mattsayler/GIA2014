@@ -133,7 +133,10 @@
 ### Lifecycle costs
 
 ### Resources
-* Book: IIMM (International Infrastructure Management Manual)
+* Book: [IIMM (International Infrastructure Management Manual)][1]
+
+[1]: http://www.ipwea.org/bookshop/iimm
+
 
 
 
